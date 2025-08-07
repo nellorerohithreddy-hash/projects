@@ -1,0 +1,6 @@
+cd "C:\Users\nellore rohith\Downloads\MalwareClassificationProject"
+
+
+
+
+streamlit run app.py
